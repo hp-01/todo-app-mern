@@ -1,6 +1,6 @@
 ### Todo App
 
-You can view this webpage following this [todoapp.hp01.me](https://todoapp.hp01.me)
+You can view this webpage following this [bit.ly/hp_todoapp](https://bit.ly/hp_todoapp)
 
 1. api folder
 This contain api routes, model and react webpage optimized build.
